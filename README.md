@@ -1,3 +1,5 @@
+# 🛑 This codelab is deprecated and will be removed soon 🛑
+
 # basic-android-accessibility
 
 This folder contains the source code for the following codelabs:
